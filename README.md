@@ -7,7 +7,7 @@
 
 A Progressive Web Application featuring real-time weather from anywhere in the world.
 
-##Uses OpenWeather API
+## Uses OpenWeather API 
 
 https://gracious-mcclintock-a663e7.netlify.app/
 
