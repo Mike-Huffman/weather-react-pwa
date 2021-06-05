@@ -1,4 +1,4 @@
-![image](https://i.ibb.co/47YYfy7/logo.png | width=20)
+<img src="https://i.ibb.co/47YYfy7/logo.png" width="20" height="20">
 # SimpleWeather
 [![Netlify Status](https://api.netlify.com/api/v1/badges/60b07afd-c253-4f8e-8d42-9d50ff84ee35/deploy-status)](https://app.netlify.com/sites/gracious-mcclintock-a663e7/deploys)
 
